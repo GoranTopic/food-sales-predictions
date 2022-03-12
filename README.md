@@ -2,9 +2,9 @@
 
 ## About
 
-This is a repository which coatin my work using Data Science Model to predict the future sale of a store base on the [data]('./Data/sales_predictions.csv') given
+This is a repository which coatin my work using Data Science Model to predict the future sale of a store base on the [data]('Data/sales_predictions.csv') given
 
-I have made a power [point presentation]('./presentation/food-prediction_powerpoint.odp') and a [video presentation 1]('./presentation/presentation_1.mp4') and [video presentation 2]('./presentation/presentation_2.mp4') 
+I have made a power [point presentation]('presentation/food-prediction_powerpoint.odp') and a [video presentation 1]('presentation/presentation_1.mp4') and [video presentation 2]('presentation/presentation_2.mp4') 
 
 In the end I was able to get a Random Forest Three to have r2 score of test data. 
 
